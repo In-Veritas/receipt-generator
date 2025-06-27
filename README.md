@@ -1,4 +1,4 @@
-# Invoice Generator
+# Receipt Generator
 
 This project is an automatic professional invoice PDF generator for businesses and freelancers.
 
