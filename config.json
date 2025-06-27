@@ -1,0 +1,57 @@
+{
+  "company": {
+    "legal_name": "Michael Scott Paper Company, Inc.",
+    "business_name": "Michael Scott Paper Company",
+    "contact_name": "Michael Scott",
+    "email": "michael.scott@dundermifflin.com",
+    "phone": "+1 570-555-1212",
+    "address": "1725 Slough Avenue, Scranton, PA 18505, USA",
+    "siret": "MSPC-0001"
+  },
+  "invoice": {
+    "last_invoice_number": 0,
+    "due_days": 30
+  },
+  "receiver": {
+    "name": "Dunder Mifflin Inc.",
+    "address": "1725 Slough Avenue, Scranton, PA 18505, USA"
+  },
+  "services": [
+    {
+      "description": "Premium White Copy Paper (A4, 80gsm)",
+      "amount_usd": 120.00,
+      "unit": "Box (5000 sheets)",
+      "quantity": 10
+    },
+    {
+      "description": "Recycled Paper (Letter, 75gsm)",
+      "amount_usd": 95.00,
+      "unit": "Box (5000 sheets)",
+      "quantity": 5
+    },
+    {
+      "description": "Colored Paper (Assorted, 80gsm)",
+      "amount_usd": 150.00,
+      "unit": "Box (5000 sheets)",
+      "quantity": 2
+    }
+  ],
+  "payment_term": "Net 30",
+  "payment_methods": "Bank Transfer",
+  "amount_excl_tax": 1975.00,
+  "vat": 0.00,
+  "amount_incl_tax": 1975.00,
+  "vat_note": "VAT not applicable – US domestic transaction.",
+  "exchange_rate_note": "Applied exchange rate: EUR/USD (1.1000), according to the ECB for 2024-06-27",
+  "bank_details": {
+    "account_holder": "Michael Scott Paper Company, Inc.",
+    "routing_number": "123456789",
+    "account_number": "9876543210",
+    "account_type": "Checking",
+    "bank": "Scranton Business Bank",
+    "bank_address": "100 Main Street, Scranton, PA 18503, USA",
+    "account_address": "1725 Slough Avenue, Scranton, PA 18505, USA"
+  },
+  "exchange_rate": 1.1000,
+  "output_name": "Michael Scott Paper Company"
+}
